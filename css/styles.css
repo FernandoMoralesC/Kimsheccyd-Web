@@ -1,0 +1,21 @@
+/* ===================================================
+   KIMSHECCYD WEBSITE
+   Main Stylesheet
+=================================================== */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background:#0b0b0d;
+    overflow-x:hidden;
+    color:white;
+}
